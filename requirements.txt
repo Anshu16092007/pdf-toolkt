@@ -1,4 +1,2 @@
 streamlit
-PyPDF2
-Pillow
-pdfminer.six
+requests
